@@ -1,1 +1,0 @@
-# bootcamp-gostack-11-challenges
